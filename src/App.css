@@ -1,0 +1,63 @@
+/*.App {*/
+    /*text-align: center;*/
+/*}*/
+
+/*.App-logo {*/
+    /*animation: App-logo-spin infinite 20s linear;*/
+    /*height: 80px;*/
+/*}*/
+
+/*.App-header {*/
+    /*background-color: #222;*/
+    /*height: 150px;*/
+    /*padding: 20px;*/
+    /*color: white;*/
+/*}*/
+
+/*.App-title {*/
+    /*font-size: 1.5em;*/
+/*}*/
+
+/*.App-intro {*/
+    /*font-size: large;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+    /*from {*/
+        /*transform: rotate(0deg);*/
+    /*}*/
+    /*to {*/
+        /*transform: rotate(360deg);*/
+    /*}*/
+/*}*/
+
+/*.table-bordered, .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {*/
+    /*border: 1px solid #ddd;*/
+/*}*/
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+table {
+    background-color: transparent;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+
+table {
+    margin-bottom: 1.4em;
+    width: 25%;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
